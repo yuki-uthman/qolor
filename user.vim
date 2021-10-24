@@ -1,0 +1,27 @@
+
+packadd qolor
+
+colorscheme qolor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
